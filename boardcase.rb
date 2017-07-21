@@ -1,4 +1,4 @@
-#require "pry"
+
 
 class BoardCase
 	attr_accessor :value, :onecase
@@ -22,5 +22,3 @@ class BoardCase
 	# end 
 end
 end
-
-#binding.pry

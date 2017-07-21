@@ -1,4 +1,4 @@
-#require "pry"
+
 
 class Board
 	# include Enumerable 
@@ -25,5 +25,3 @@ class Board
 	end
 
 end 
-
-#binding.pry
